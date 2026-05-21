@@ -1,0 +1,13 @@
+title: Dance On Time
+description: A dance studio landing page
+baseurl: ""
+url: "https://danceontime.com"
+
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .dockerignore
+  - docker-compose.yml
+  - Dockerfile
+  - README.md
