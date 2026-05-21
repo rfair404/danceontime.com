@@ -6,11 +6,11 @@ permalink: /waivers/instruction/
 
 # Release of Liability Waiver - Dance Instruction
 
-## Dance On Time - Dance Instruction Services
+## Dance On Time, LLC - Dance Instruction Services
 
 **PLEASE READ CAREFULLY BEFORE PARTICIPATING**
 
-This Release of Liability Waiver ("Waiver") is entered into as of the date of service between **Dance On Time** ("Company") and the individual(s) listed below ("Participant" or "Participants").
+This Release of Liability Waiver ("Waiver") is entered into as of the date of service between **Dance On Time, LLC** ("Company") and the individual(s) listed below ("Participant" or "Participants").
 
 ---
 
@@ -34,7 +34,7 @@ Participant voluntarily assumes all risks associated with participation in Dance
 
 Participant represents that:
 - They are in good physical health and capable of safely participating in dance activities
-- They have disclosed any medical conditions, injuries, or physical limitations to Dance On Time
+- They have disclosed any medical conditions, injuries, or physical limitations to Dance On Time, LLC
 - They have not been advised by a medical professional to avoid dancing or strenuous activity
 - They are not under the influence of alcohol, drugs, or substances that impair judgment or coordination
 - They will inform the instructor immediately of any pain, discomfort, or unusual symptoms during class
@@ -58,7 +58,7 @@ If Participant has any of the following conditions, they represent that they hav
 
 Participant, on behalf of themselves and their heirs, executors, administrators, assigns, and successors, hereby releases and forever waives any and all claims, demands, causes of action, and liabilities against:
 
-- Dance On Time, its owners, operators, instructors, and employees
+- Dance On Time, LLC, its owners, operators, instructors, and employees
 - The studio location and property owners
 - Co-participants and other class members
 - Any other parties involved in providing Dance Instruction Services
@@ -69,7 +69,7 @@ This waiver applies to all claims arising from or related to Participant's parti
 
 ## 5. INDEMNIFICATION
 
-Participant agrees to indemnify and hold harmless Dance On Time, its owners, operators, instructors, employees, and agents from any and all claims, damages, liabilities, costs, and expenses (including legal fees) arising from:
+Participant agrees to indemnify and hold harmless Dance On Time, LLC, its owners, operators, instructors, employees, and agents from any and all claims, damages, liabilities, costs, and expenses (including legal fees) arising from:
 
 - Participant's participation in Dance Instruction Services
 - Participant's violation of safety rules or class guidelines
@@ -104,19 +104,19 @@ Participant is responsible for:
 
 ## 8. MEDICAL EMERGENCY
 
-Participant authorizes Dance On Time personnel to contact emergency medical services (911) if Participant becomes injured or incapacitated. Participant agrees to pay all costs associated with emergency medical treatment and transportation.
+Participant authorizes Dance On Time, LLC personnel to contact emergency medical services (911) if Participant becomes injured or incapacitated. Participant agrees to pay all costs associated with emergency medical treatment and transportation.
 
 ---
 
 ## 9. PHOTOGRAPHS AND VIDEO
 
-Participant consents to the taking of photographs and/or video recordings by Dance On Time for instructional, promotional, or archival purposes. Participant grants Dance On Time the right to use these images and videos without further compensation or notification.
+Participant consents to the taking of photographs and/or video recordings by Dance On Time, LLC for instructional, promotional, or archival purposes. Participant grants Dance On Time, LLC the right to use these images and videos without further compensation or notification.
 
 ---
 
 ## 10. NO WARRANTY
 
-Dance On Time makes no representations or warranties regarding Dance Instruction Services, including fitness for a particular purpose or specific results. Services are provided on an "as-is" basis.
+Dance On Time, LLC makes no representations or warranties regarding Dance Instruction Services, including fitness for a particular purpose or specific results. Services are provided on an "as-is" basis.
 
 ---
 
@@ -176,11 +176,11 @@ I am the parent or legal guardian of the above-named minor and hereby consent to
 
 ---
 
-**For Dance On Time Use Only:**
+**For Dance On Time, LLC Use Only:**
 
 **Date Received:** _____________ **Received By:** _________________________
 
 ---
 
-**Dance On Time - Dance Instruction Services**
+**Dance On Time, LLC - Dance Instruction Services**
 Madison, Georgia | info@danceontime.com | (555) 123-4567

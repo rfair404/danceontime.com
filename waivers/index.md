@@ -6,7 +6,7 @@ permalink: /waivers/
 
 # Release of Liability Waivers
 
-Dance On Time takes the safety of all participants seriously. Before engaging our services, please review and sign the appropriate waiver for your specific service.
+Dance On Time, LLC takes the safety of all participants seriously. Before engaging our services, please review and sign the appropriate waiver for your specific service.
 
 ## Choose Your Waiver
 
@@ -44,11 +44,11 @@ Covers rental and use of custom portable dance floors (8'x12' to 48'x48').
 
 ## Questions?
 
-Contact Dance On Time:
+Contact Dance On Time, LLC:
 - **Email:** info@danceontime.com
 - **Phone:** (555) 123-4567
 - **Location:** Madison, Georgia
 
 ---
 
-**Important Disclaimer:** These waivers are templates and should be reviewed by legal counsel before use. Laws vary by state and jurisdiction. Dance On Time recommends consulting with an attorney to ensure these waivers comply with all applicable local, state, and federal laws.
+**Important Disclaimer:** These waivers are templates and should be reviewed by legal counsel before use. Laws vary by state and jurisdiction. Dance On Time, LLC recommends consulting with an attorney to ensure these waivers comply with all applicable local, state, and federal laws.

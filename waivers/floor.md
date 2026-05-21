@@ -6,11 +6,11 @@ permalink: /waivers/floor/
 
 # Release of Liability Waiver - Dance Floor Rental
 
-## Dance On Time - Custom Portable Dance Floor Rental
+## Dance On Time, LLC - Custom Portable Dance Floor Rental
 
 **PLEASE READ CAREFULLY BEFORE YOUR EVENT**
 
-This Release of Liability Waiver ("Waiver") is entered into as of the date of service between **Dance On Time** ("Company") and the individual(s)/organization listed below ("Participant" or "Participants").
+This Release of Liability Waiver ("Waiver") is entered into as of the date of service between **Dance On Time, LLC** ("Company") and the individual(s)/organization listed below ("Participant" or "Participants").
 
 ---
 
@@ -49,7 +49,7 @@ Participant is responsible for:
 - Keeping the floor clean and free of debris, spills, and hazards
 - Monitoring the floor condition throughout the event
 - Preventing excessive moisture or liquid from accumulating on the floor
-- Notifying Dance On Time immediately of any damage or unsafe conditions
+- Notifying Dance On Time, LLC immediately of any damage or unsafe conditions
 - Preventing guests from wearing outdoor shoes or street footwear on the floor
 
 ---
@@ -71,7 +71,7 @@ Participant represents that they:
 
 Participant, on behalf of themselves, their heirs, executors, administrators, assigns, and successors, hereby releases and forever waives any and all claims, demands, causes of action, and liabilities against:
 
-- Dance On Time, its owners, operators, and employees
+- Dance On Time, LLC, its owners, operators, and employees
 - Setup and breakdown personnel
 - Equipment manufacturers and vendors
 - The venue or property owner
@@ -84,7 +84,7 @@ This waiver applies to all claims arising from or related to Dance Floor Rental,
 
 ## 6. INDEMNIFICATION
 
-Participant agrees to indemnify and hold harmless Dance On Time, its owners, operators, employees, and agents from any and all claims, damages, liabilities, costs, and expenses (including legal fees) arising from:
+Participant agrees to indemnify and hold harmless Dance On Time, LLC, its owners, operators, employees, and agents from any and all claims, damages, liabilities, costs, and expenses (including legal fees) arising from:
 
 - Use of the rental dance floor at Participant's event
 - Falls, slips, or other injuries on or around the dance floor
@@ -105,20 +105,20 @@ Participant is liable for:
 - Damage caused by incorrect setup, storage, or handling
 - Replacement or repair costs for damaged equipment
 
-Dance On Time retains the right to charge for repairs or replacement based on damage assessment.
+Dance On Time, LLC retains the right to charge for repairs or replacement based on damage assessment.
 
 ---
 
 ## 8. SETUP AND BREAKDOWN
 
 Participant acknowledges that:
-- Dance On Time personnel will handle professional setup and breakdown
+- Dance On Time, LLC personnel will handle professional setup and breakdown
 - The venue must provide adequate space and access for setup/breakdown
 - Participant is responsible for clearing the area of obstacles and hazards
 - Setup takes approximately 2-4 hours depending on floor size
 - Breakdown takes approximately 1-2 hours
-- Dance On Time will determine safe setup conditions
-- Participant must allow Dance On Time personnel full access during setup/breakdown times
+- Dance On Time, LLC will determine safe setup conditions
+- Participant must allow Dance On Time, LLC personnel full access during setup/breakdown times
 
 ---
 
@@ -149,10 +149,10 @@ Participant agrees to:
 
 ## 11. EQUIPMENT CONDITION AND INSURANCE
 
-- Dance On Time will inspect the floor before delivery for existing damage
+- Dance On Time, LLC will inspect the floor before delivery for existing damage
 - Participant is responsible for the floor's condition during the rental period
 - Participant's event liability insurance should cover injuries and damage
-- Dance On Time carries insurance for equipment only, not event-related injuries
+- Dance On Time, LLC carries insurance for equipment only, not event-related injuries
 - Participant is advised to obtain event liability insurance
 
 ---
@@ -164,13 +164,13 @@ Participant acknowledges that:
 - Refund policy applies per the signed rental agreement
 - Outdoor installations may be cancelled or delayed due to weather
 - Rain, extreme heat, or other weather may affect floor safety
-- Dance On Time reserves the right to cancel if conditions are unsafe
+- Dance On Time, LLC reserves the right to cancel if conditions are unsafe
 
 ---
 
 ## 13. MEDICAL EMERGENCY
 
-Participant authorizes Dance On Time to contact emergency medical services (911) if anyone at the event becomes injured. Participant agrees to pay all costs associated with emergency medical treatment and transportation.
+Participant authorizes Dance On Time, LLC to contact emergency medical services (911) if anyone at the event becomes injured. Participant agrees to pay all costs associated with emergency medical treatment and transportation.
 
 ---
 
@@ -256,7 +256,7 @@ This Waiver shall be governed by and construed in accordance with the laws of th
 
 ---
 
-**For Dance On Time Use Only:**
+**For Dance On Time, LLC Use Only:**
 
 **Date Received:** _____________ **Received By:** _________________________
 
@@ -266,5 +266,5 @@ This Waiver shall be governed by and construed in accordance with the laws of th
 
 ---
 
-**Dance On Time - Dance Floor Rental Services**
+**Dance On Time, LLC - Dance Floor Rental Services**
 Madison, Georgia | info@danceontime.com | (555) 123-4567
