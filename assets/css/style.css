@@ -74,11 +74,11 @@ footer {
 }
 
 footer a {
-    color: #3498db;
-    text-decoration: none;
-    transition: color 0.3s ease;
+    color: white;
+    text-decoration: underline;
+    transition: opacity 0.3s ease;
 }
 
 footer a:hover {
-    color: white;
+    opacity: 0.8;
 }
