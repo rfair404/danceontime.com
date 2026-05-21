@@ -4,21 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home - Dance On Time</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/about/">About</a>
-            <a href="/services/instruction/">Instruction</a>
-            <a href="/services/dj/">DJ Services</a>
-            <a href="/services/floor/">Dance Floor</a>
-            <a href="/contact/">Contact</a>
-        </nav>
+    <header class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Dance On Time</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/about/">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/services/instruction/">Instruction</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/services/dj/">DJ Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/services/floor/">Dance Floor</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact/">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </header>
 
-    <main>
+    <main class="container my-5">
         <h1 id="make-your-epic-dance-party-happen">Make Your Epic Dance Party Happen</h1>
 
 <p>Your celebration deserves to be unforgettable. Whether it’s your wedding, anniversary, or special event, Dance On Time brings together expert instruction, professional DJ services, and stunning portable dance floors to create the perfect dance experience.</p>
@@ -50,8 +71,23 @@
 
     </main>
 
-    <footer>
-        <p>&copy; 2026 Dance On Time. All rights reserved.</p>
+    <footer class="bg-dark text-white py-5 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>&copy; 2026 Dance On Time. All rights reserved.</p>
+                </div>
+                <div class="col-md-6 text-end">
+                    <p>
+                        <a href="/terms/" class="text-white me-3">Terms of Service</a> | 
+                        <a href="/privacy/" class="text-white mx-3">Privacy Policy</a> | 
+                        <a href="/waivers/" class="text-white ms-3">Waivers</a>
+                    </p>
+                </div>
+            </div>
+        </div>
     </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

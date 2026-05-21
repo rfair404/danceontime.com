@@ -1,0 +1,16 @@
+---
+---
+// Main stylesheet for Serif Jekyll theme with Bootstrap 5
+
+// Import Bootstrap framework from gem
+@import "bootstrap/scss/bootstrap";
+
+// Import custom components (minimal overrides)
+@import "components/buttons";
+@import "components/header";
+@import "components/footer";
+@import "components/main-menu";
+@import "components/content";
+@import "components/type";
+@import "components/page";
+
