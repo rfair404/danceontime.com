@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 title: Terms of Service
 permalink: /terms/
 ---
 
-# Terms of Service
 
 **Dance On Time**
 
@@ -22,25 +21,42 @@ By accessing and using the Dance On Time website (www.danceontime.com) and engag
 
 ## 2. SERVICE DESCRIPTIONS
 
-Dance On Time offers three primary services:
+Dance On Time offers five primary services:
 
 ### A. Dance Instruction Services
 - Private and group dance lessons
 - Wedding choreography and first dance coaching
 - Dance styles: Country Two Step, Waltz, Swing, Salsa, Bachata
 - In-studio (Madison, Georgia) and in-home lessons available
+- Personalized instruction for couples, individuals, and groups
 
 ### B. DJ Services
 - Professional DJ services for events
 - Music curation and MC services
 - Sound equipment and lighting coordination
-- Event-specific music selection and requests
+- Event-specific music selection and request management
+- Specialized in reading the room and adapting to crowd energy
 
 ### C. Dance Floor Rental
 - Custom-built, modular portable dance floors
 - Sizes: 8'x12' to 48'x48'
 - Professional setup and breakdown
 - Available for indoor and outdoor events
+- High-quality hardwood construction with slip-resistant surface
+
+### D. Special Event Planning
+- Comprehensive event coordination and planning
+- Venue selection and logistics management
+- Vendor coordination and integration
+- Timeline management and detailed planning
+- Full-service event coordination for weddings, anniversaries, corporate events, and celebrations
+
+### E. Event Photography
+- Professional event photography coverage
+- Flexible package options (4, 8, or all-day coverage)
+- High-quality digital galleries with professional editing
+- Optional printed albums and second photographer services
+- Candid and posed photography with artistic vision
 
 ---
 
@@ -71,6 +87,8 @@ Dance On Time offers three primary services:
 - **Dance Instruction**: Cancellations must be made 24 hours prior to lesson
 - **DJ Services**: Cancellation policy per event contract
 - **Floor Rental**: Cancellation policy per rental agreement
+- **Special Event Planning**: Cancellation policy per planning agreement
+- **Event Photography**: Cancellation policy per photography contract
 
 ### Refund Policy
 - Refunds subject to cancellation timeframe per service
@@ -90,9 +108,8 @@ Dance On Time offers three primary services:
 ## 5. LIABILITY WAIVERS
 
 All participants and clients must sign appropriate liability waivers before service commencement:
-- Dance Instruction: [Instruction Waiver](/waivers/instruction/)
-- DJ Services: [DJ Services Waiver](/waivers/dj/)
-- Floor Rental: [Floor Rental Waiver](/waivers/floor/)
+
+- Dance Instruction: [Dance Lesson Waiver](/waivers/instruction/)
 
 By booking services, you agree to sign the required waiver(s).
 
@@ -107,12 +124,14 @@ By booking services, you agree to sign the required waiver(s).
 - Must comply with all instructor safety guidelines
 - Must respect studio policies and other participants
 
-### Event Clients (DJ and Floor Rental)
+### Event Clients (DJ, Floor Rental, Event Planning, Photography)
 - Must ensure venue safety and adequate space
 - Must control attendee behavior and safety
 - Must provide safe ingress/egress for equipment
 - Must monitor crowd capacity and floor conditions
 - Must immediately report any injuries or equipment issues
+- Must provide accurate event details and guest count estimates
+- Must ensure all necessary permits and venue approvals are obtained
 
 ---
 
@@ -124,6 +143,11 @@ By booking services, you agree to sign the required waiver(s).
 - Damage beyond normal use will be charged to renter
 - Damage assessment and repair costs will be provided
 - Floor must not be misused or subjected to abuse
+
+### Photography and Video Records
+- All photographs taken during Event Photography services remain property of Dance On Time
+- Digital gallery access provided as per package agreement
+- Printed materials (albums, prints) provided as specified in package
 
 ### Participant Property
 - Dance On Time is not responsible for lost, stolen, or damaged personal property
@@ -166,6 +190,7 @@ All participants acknowledge and assume risks inherent to:
 - Use of DJ equipment and sound systems
 - Use of portable dance floors
 - Participation in group activities
+- Event attendance and interaction with other guests
 
 Participants voluntarily assume these risks and waive claims against Dance On Time.
 
@@ -173,34 +198,39 @@ Participants voluntarily assume these risks and waive claims against Dance On Ti
 
 ## 11. PRIVACY AND PERSONAL INFORMATION
 
-Dance On Time collects and processes personal information as described in the [Privacy Policy](/privacy/). By using our services, you consent to our privacy practices.
+Dance On Time collects and processes personal information for booking, communication, and service delivery purposes. By using our services, you consent to the collection and use of your information as described in our privacy practices.
 
 ---
 
 ## 12. LIMITATION OF LIABILITY
 
 Dance On Time's total liability for any claim shall not exceed the amount paid for services. Dance On Time is not liable for:
+
 - Indirect or consequential damages
 - Lost profits or business opportunities
 - Personal injury (covered by waiver)
 - Property damage (covered by waiver)
 - Emotional distress
+- Event outcome or guest satisfaction
+- Weather-related cancellations or delays
 
 ---
 
 ## 13. INDEMNIFICATION
 
 You agree to indemnify and hold harmless Dance On Time, its owners, employees, and agents from any claims, damages, or expenses arising from:
+
 - Your participation in services
 - Your violation of these terms
 - Your negligence or misconduct
 - Injury or damage caused by your actions
+- Breach of your responsibilities outlined in Section 6
 
 ---
 
 ## 14. MEDICAL CLEARANCE
 
-Participants with medical conditions, recent surgery, or physical limitations represent that they have obtained medical clearance before participation.
+Participants with medical conditions, recent surgery, or physical limitations represent that they have obtained medical clearance before participation in dance instruction services.
 
 ---
 
@@ -209,8 +239,8 @@ Participants with medical conditions, recent surgery, or physical limitations re
 Dance On Time reserves the right to:
 - Modify or cancel services due to circumstances beyond control
 - Adjust pricing or terms with advance notice
-- Change instructors or personnel
-- Modify service offerings
+- Change instructors, photographers, or DJ personnel
+- Modify service offerings or package options
 
 ---
 
@@ -223,6 +253,7 @@ These Terms of Service are governed by the laws of the State of Georgia, without
 ## 17. DISPUTE RESOLUTION
 
 Any disputes arising from these terms or services shall be resolved through:
+
 1. Good faith negotiation between parties
 2. Mediation if negotiation fails
 3. Arbitration or litigation as last resort
@@ -253,6 +284,7 @@ Users may not:
 ## 19. THIRD-PARTY LINKS
 
 The website may contain links to third-party websites. Dance On Time is not responsible for:
+
 - Content of third-party websites
 - Accuracy of information on linked sites
 - Security of third-party sites
@@ -264,8 +296,8 @@ The website may contain links to third-party websites. Dance On Time is not resp
 
 **Dance On Time**
 Madison, Georgia
-Email: info@danceontime.com
-Phone: (555) 123-4567
+Email: russ@danceontime.com
+Phone: 770-401-9039
 
 For questions about these Terms of Service, please contact us.
 
@@ -279,7 +311,7 @@ If any portion of these Terms of Service is found invalid or unenforceable, the 
 
 ## 22. ENTIRE AGREEMENT
 
-These Terms of Service, along with the Privacy Policy and signed waivers/contracts, constitute the entire agreement between you and Dance On Time regarding the services.
+These Terms of Service, along with any signed waivers or service contracts, constitute the entire agreement between you and Dance On Time regarding the services.
 
 ---
 

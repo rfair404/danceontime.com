@@ -1,0 +1,29 @@
+[
+  {
+    "title": "All Skill Levels Welcome",
+    "description": "From total beginners to seasoned dancers, lessons are tailored to where you are.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Personalized Choreography",
+    "description": "Custom routines built around your song, your style, and your big moment.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Everything in One Place",
+    "description": "Instruction, DJ, and portable dance floors — one team for your whole celebration.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{% comment %}
+  Renders the event list from _data/events.json (Jekyll-native).
+  Usage: {% include events-list.html %}
+{% endcomment %}
+<div class="events" id="events">
+  <div class="events__toolbar d-print-none">
+    <button type="button" class="button button-primary" onclick="window.print()">Print this list</button>
+  </div>
+
+  {% assign events = site.data.events | sort: "start" %}
+  {% if events.size == 0 %}
+    <p class="events__empty">No upcoming events right now. Check back soon.</p>
+  {% else %}
+    <ul class="events__list">
+      {% for event in events %}
+      <li class="event{% if event.featured %} event--featured{% endif %}">
+        <div class="event__date">
+          <span class="event__month">{{ event.start | date: "%b" }}</span>
+          <span class="event__day">{{ event.start | date: "%-d" }}</span>
+          <span class="event__weekday">{{ event.start | date: "%a" }}</span>
+        </div>
+        <div class="event__body">
+          <div class="event__head">
+            <h3 class="event__title">{{ event.title }}</h3>
+            {% if event.category %}<span class="event__category">{{ event.category }}</span>{% endif %}
+          </div>
+          <p class="event__meta">
+            <span class="event__time">
+              {% if event.allDay %}All day{% else %}{{ event.start | date: "%-I:%M %p" }}{% if event.end %} &ndash; {{ event.end | date: "%-I:%M %p" }}{% endif %}{% endif %}
+            </span>
+            {% if event.location.name %}
+            <span class="event__location">
+              {{ event.location.name }}{% if event.location.city %}, {{ event.location.city }}{% if event.location.state %}, {{ event.location.state }}{% endif %}{% endif %}
+            </span>
+            {% endif %}
+            {% if event.price %}<span class="event__price">{{ event.price }}</span>{% endif %}
+          </p>
+          {% if event.description %}<p class="event__desc">{{ event.description }}</p>{% endif %}
+          {% if event.registerUrl != "" or event.url != "" %}
+          <p class="event__links d-print-none">
+            {% if event.registerUrl != "" %}<a class="event__link" href="{{ event.registerUrl }}">Register</a>{% endif %}
+            {% if event.url != "" %}<a class="event__link" href="{{ event.url }}">Details</a>{% endif %}
+          </p>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "summer-social-2026-07-18",
+    "title": "Summer Social Dance Night",
+    "category": "Social",
+    "start": "2026-07-18T19:00",
+    "end": "2026-07-18T23:00",
+    "allDay": false,
+    "location": {
+      "name": "The Grand Ballroom",
+      "address": "123 Main St",
+      "city": "Austin",
+      "state": "TX"
+    },
+    "price": "$15 at the door",
+    "description": "Open social dancing for all levels. Beginner lesson at 7pm, DJ set from 8pm to 11pm.",
+    "url": "",
+    "registerUrl": "",
+    "featured": true
+  },
+  {
+    "id": "beginner-workshop-2026-07-25",
+    "title": "Beginner Ballroom Workshop",
+    "category": "Workshop",
+    "start": "2026-07-25T14:00",
+    "end": "2026-07-25T16:00",
+    "allDay": false,
+    "location": {
+      "name": "Dance On Time Studio",
+      "address": "456 Rhythm Ave",
+      "city": "Austin",
+      "state": "TX"
+    },
+    "price": "$30 per person",
+    "description": "Two-hour intro to waltz and foxtrot fundamentals. No partner or experience needed.",
+    "url": "",
+    "registerUrl": "",
+    "featured": false
+  },
+  {
+    "id": "wedding-showcase-2026-08-08",
+    "title": "Wedding First-Dance Showcase",
+    "category": "Showcase",
+    "start": "2026-08-08T18:30",
+    "end": "2026-08-08T20:30",
+    "allDay": false,
+    "location": {
+      "name": "Riverside Event Center",
+      "address": "789 Waterfront Blvd",
+      "city": "Austin",
+      "state": "TX"
+    },
+    "price": "Free",
+    "description": "Watch couples debut their custom first-dance choreography. Refreshments provided.",
+    "url": "",
+    "registerUrl": "",
+    "featured": false
+  },
+  {
+    "id": "latin-night-2026-08-22",
+    "title": "Latin Night: Salsa & Bachata",
+    "category": "Social",
+    "start": "2026-08-22T20:00",
+    "end": "2026-08-23T00:00",
+    "allDay": false,
+    "location": {
+      "name": "The Grand Ballroom",
+      "address": "123 Main St",
+      "city": "Austin",
+      "state": "TX"
+    },
+    "price": "$20 at the door",
+    "description": "Live DJ, salsa and bachata all night. Group lesson at 8pm included with entry.",
+    "url": "",
+    "registerUrl": "",
+    "featured": true
+  }
+]
