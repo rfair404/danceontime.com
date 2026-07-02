@@ -1,0 +1,143 @@
+// Events list (Jekyll-rendered)
+
+.events {
+  &__toolbar {
+    margin-bottom: 1.5rem;
+  }
+
+  &__empty {
+    color: $steel;
+  }
+
+  &__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.event {
+  display: flex;
+  gap: 1.25rem;
+  padding: 1.25rem 0;
+  border-top: 1px solid rgba($black, 0.12);
+
+  &:last-child {
+    border-bottom: 1px solid rgba($black, 0.12);
+  }
+
+  &--featured {
+    .event__title { color: $primary; }
+  }
+
+  &__date {
+    flex: 0 0 64px;
+    text-align: center;
+    line-height: 1.1;
+    color: $primary;
+  }
+
+  &__month {
+    display: block;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    font-weight: 700;
+  }
+
+  &__day {
+    display: block;
+    font-family: $font-family-heading;
+    font-size: 2rem;
+    color: $black;
+  }
+
+  &__weekday {
+    display: block;
+    font-size: 0.75rem;
+    color: $steel;
+    text-transform: uppercase;
+  }
+
+  &__body { flex: 1 1 auto; }
+
+  &__head {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem 0.75rem;
+  }
+
+  &__title {
+    font-family: $font-family-heading;
+    font-size: 1.35rem;
+    margin: 0;
+  }
+
+  &__category {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 700;
+    color: $primary;
+    border: 1px solid $primary;
+    border-radius: 999px;
+    padding: 0.1rem 0.6rem;
+  }
+
+  &__meta {
+    margin: 0.35rem 0 0.5rem;
+    color: $steel;
+    font-size: 0.95rem;
+
+    span + span::before {
+      content: "•";
+      margin: 0 0.5rem;
+      color: rgba($black, 0.35);
+    }
+  }
+
+  &__desc {
+    margin: 0;
+    color: $black;
+  }
+
+  &__links {
+    margin: 0.6rem 0 0;
+  }
+
+  &__link {
+    font-weight: 700;
+    margin-right: 1rem;
+  }
+}
+
+// Print-friendly
+@media print {
+  header,
+  footer,
+  .sub-footer,
+  .call,
+  .d-print-none {
+    display: none !important;
+  }
+
+  body { font-size: 12pt; color: #000; }
+
+  .event {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    border-color: #999;
+  }
+
+  .event__title,
+  .event__day,
+  .event--featured .event__title { color: #000; }
+
+  .event__category {
+    color: #000;
+    border-color: #000;
+  }
+
+  a { color: #000; text-decoration: none; }
+}
