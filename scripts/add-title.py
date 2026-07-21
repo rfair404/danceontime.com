@@ -13,17 +13,14 @@ Usage:
         --tagline "Social & Wedding Dance" "Lessons  ·  DJ  ·  Dance Floors" \
         "Madison, GA  ·  danceontime.com"
 """
-import argparse, os
+import argparse, os, sys
 from PIL import Image, ImageDraw, ImageFont
 
-INK = (47, 47, 65)      # #2f2f41
-RED = (229, 38, 31)     # #e5261f
-STEEL = (92, 90, 90)    # #5c5a5a
-GB = r"C:\Windows\Fonts\georgiab.ttf"   # Georgia Bold  (Playfair substitute)
-G = r"C:\Windows\Fonts\georgia.ttf"     # Georgia
-
-# The wordmark, split into coloured segments. ONLY "On" is red.
-WORDMARK = [("Dance ", INK), ("On ", RED), ("Time", INK)]
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+# Palette, fonts and the wordmark all come from the shared brand module so the
+# "On is red" rule cannot drift between the image tools.
+from brand import INK, RED, STEEL, WORDMARK  # noqa: E402
+from brand import GEORGIA_BOLD as GB, GEORGIA as G  # noqa: E402
 
 DEFAULT_TAGLINES = [
     "Social & Wedding Dance",
