@@ -61,8 +61,11 @@ yellow/brown, no gradients-as-style, no neon.
   only, no flesh tones, no dark skin) and reads as an adult **~25–65** (no children, no elderly).
   Make figures look like different individuals through **hairstyle, hair colour (black/grey), outfit
   cut, build/height and dance style** — never through skin tone or extreme age. Keep a roughly
-  **~50/50 mix of men and women** across the cast (never all one gender); pair dancers as man-and-woman
-  couples in clean **connected** frames where joined hands actually meet — no tangled/floating hands.
+  **~50/50 mix of men and women** across the cast (never all one gender).
+- **Couples only, never singles (rule, 2026-07).** Every dancer is **partnered** in a man-and-woman
+  couple — no solo or unpartnered dancer anywhere, including the background, so the dancer count is
+  always **even**. Each couple sits in a clean **connected** frame where joined hands actually meet —
+  no tangled/floating hands. (Non-dancing figures such as a DJ are not subject to this.)
 - Almost always drawn in **¾ profile facing their partner.**
 - **Face kit (consistent across all figures):** simple curved eyebrows; small almond eyes (a
   curve + a dot, a hint of lashes on women); a small nose (a soft bump in profile); a small

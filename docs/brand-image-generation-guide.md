@@ -123,7 +123,8 @@ Output a single {aspect} illustration that looks like it belongs in the same set
 > STYLE RULES (match the three reference images EXACTLY): warm near-black tapered ink line
 > (thicker outer contour, thin interior folds), confident and smooth, no sketchy multi-strokes;
 > pure white background; skin is left WHITE with an outline, NEVER a flesh tone; soft warm-gray
-> shading only for fold/volume and a soft light-gray floor-shadow ellipse under each figure.
+> shading only for fold/volume and a soft light-gray floor-shadow ellipse under each figure - every
+> shadow is NEUTRAL GRAY, never warm, beige, tan, cream or sepia.
 > EXACTLY ONE saturated color in the entire image: red #e5261f, and it is used sparingly.
 > ONLY ONE PERSON in the whole image wears an all-red dress: the single hero/lead woman (her
 > flaring knee-length red dress, and only she may have red hair). Every OTHER figure is grayscale -
@@ -137,10 +138,12 @@ Output a single {aspect} illustration that looks like it belongs in the same set
 > the SAME neutral white skin (outline only, NO skin-tone shading and no dark skin) - make them read as
 > distinct individuals through SUBTLE variety ONLY: different hairstyles, hair colour (black or grey),
 > outfit cut, build/height and dance style, NEVER through skin tone or extreme age.
-> Keep a roughly BALANCED ~50/50 mix of men and women across the whole cast - never all one gender;
-> pair dancers as man-and-woman couples in clean CONNECTED frames where the joined hands actually meet
-> in a proper handhold and the embracing hand lands on the partner - NO tangled, floating or weirdly
-> overlapping hands.
+> Keep a roughly BALANCED ~50/50 mix of men and women across the whole cast - never all one gender.
+> EVERY dancer is PARTNERED in a man-and-woman couple - there must be NO solo, single or unpartnered
+> dancer anywhere, including in the background, so the total number of dancers is always EVEN and every
+> person visibly has a partner. Each couple is in a clean CONNECTED frame where the joined hands
+> actually meet in a proper handhold and the embracing hand lands on the partner - NO tangled, floating
+> or weirdly overlapping hands.
 > Natural adult proportions ~7.5 heads tall (never chibi, never big-head); faces in a gentle 3/4
 > profile toward each other with tiny simple features, a small nose, a small warm closed smile, and
 > a few freckle dots on the cheek (freckles are a signature - include them); articulated hands with
@@ -183,6 +186,7 @@ Eyeball every generated image against this before saving it as final:
 4. Skin left white for **everyone** (no flesh tones, no dark skin); adults 25–65 only; crowd variety is
    subtle (hairstyle / outfit / build / dance style), not skin tone or extreme age? Men black-haired & grayscale?
    Roughly **~50/50 men and women** (not all one gender), hands connecting cleanly (no tangled/floating hands)?
+   **Everyone partnered** — no solo/unpartnered dancer anywhere (dancer count is even)?
 5. Tapered line weight; soft gray fold-shading; a soft gray floor-shadow under each figure?
 6. ¾-profile faces with tiny features **and freckles**?
 7. Natural ~7.5-head proportions; articulated hands; real footwear; feet grounded?
