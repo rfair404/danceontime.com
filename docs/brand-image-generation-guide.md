@@ -127,7 +127,10 @@ Output a single {aspect} illustration that looks like it belongs in the same set
 > shadow is NEUTRAL GRAY, never warm, beige, tan, cream or sepia.
 > EXACTLY ONE saturated color in the entire image: red #e5261f, and it is used sparingly.
 > ONLY ONE PERSON in the whole image wears an all-red dress: the single hero/lead woman (her
-> flaring knee-length red dress, and only she may have red hair). Every OTHER figure is grayscale -
+> flaring knee-length red dress, and only she may have red hair). VARY the red dress SILHOUETTE to suit
+> the dance instead of defaulting to the same polka-dot swing dress every time - e.g. a polka-dot swing
+> dress with petticoat, a sleek disco wrap, a fringed Latin dress, a full ballroom gown, a slit sheath,
+> an A-line midi - varying neckline, sleeve and hem too. Every OTHER figure is grayscale -
 > additional/background women wear white, light-gray or black dresses (NEVER red) with at most one
 > tiny red accent (a belt, hair ribbon, or small flower); every man is fully grayscale (white or
 > light-gray shirt, gray trousers, black belt, black shoes, black hair) with at most a small red tie

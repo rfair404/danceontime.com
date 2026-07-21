@@ -38,7 +38,10 @@ STYLE_RULES = (
     "shadow is NEUTRAL GRAY, never warm, beige, tan, cream or sepia. "
     "EXACTLY ONE saturated color in the entire image: red #e5261f, and it is used sparingly. "
     "ONLY ONE PERSON in the whole image wears an all-red dress: the single hero/lead woman (her "
-    "flaring knee-length red dress, and only she may have red hair). Every OTHER figure is grayscale "
+    "flaring knee-length red dress, and only she may have red hair). VARY the red dress SILHOUETTE to "
+    "suit the dance instead of defaulting to the same polka-dot swing dress every time - e.g. a "
+    "polka-dot swing dress with petticoat, a sleek disco wrap, a fringed Latin dress, a full ballroom "
+    "gown, a slit sheath, an A-line midi - varying neckline, sleeve and hem too. Every OTHER figure is grayscale "
     "- additional/background women wear white, light-gray or black dresses (NEVER red) with at most "
     "one tiny red accent (a belt, hair ribbon, or small flower); every man is fully grayscale (white "
     "or light-gray shirt, gray trousers, black belt, black shoes, black hair) with at most a small red "
@@ -94,6 +97,28 @@ def enc(path, maxdim=1024):
     return base64.b64encode(buf.getvalue()).decode()
 
 
+def neutralize_palette(im, chroma_thresh=12, red_margin=25):
+    """Force every non-red pixel to neutral gray.
+
+    The brand allows exactly one hue (red #e5261f). The image model
+    intermittently returns warm beige/tan floor shadows or other stray tints,
+    which silently break that rule. This flattens any off-hue pixel to gray
+    while preserving genuine reds (including the darker red dress folds).
+    """
+    px = im.load()
+    w, h = im.size
+    for y in range(h):
+        for x in range(w):
+            r, g, b = px[x, y]
+            if max(r, g, b) - min(r, g, b) <= chroma_thresh:
+                continue                                   # already neutral
+            if r > g + red_margin and r > b + red_margin:
+                continue                                   # real brand red
+            v = (r + g + b) // 3
+            px[x, y] = (v, v, v)
+    return im
+
+
 def fit_canvas(src_bytes, size):
     """Fit the generated image onto a white canvas of exactly `size` (w,h),
     preserving aspect ratio so figures are never distorted (background is white,
@@ -121,6 +146,9 @@ def main():
     ap.add_argument("--refs", nargs="*", default=DEFAULT_REFS,
                     help="Reference image paths (default: the 3 canonical PNGs).")
     ap.add_argument("--key-file", help="Path to a file containing only the Gemini API key.")
+    ap.add_argument("--no-neutralize", action="store_true",
+                    help="Skip the palette guard that flattens stray non-red tints (e.g. beige "
+                         "floor shadows) to neutral gray.")
     args = ap.parse_args()
 
     key = load_key(args.key_file)
@@ -162,13 +190,13 @@ def main():
     dest = args.out if os.path.isabs(args.out) else os.path.join(REPO, args.out)
     os.makedirs(os.path.dirname(dest), exist_ok=True)
     if args.size.lower() == "none":
-        with open(dest, "wb") as f:
-            f.write(out_bytes)
-        final = Image.open(dest)
+        final = Image.open(io.BytesIO(out_bytes)).convert("RGB")
     else:
         w, h = (int(x) for x in args.size.lower().split("x"))
         final = fit_canvas(out_bytes, (w, h))
-        final.save(dest)
+    if not args.no_neutralize:
+        final = neutralize_palette(final)
+    final.save(dest)
     print(f"Saved {dest}  {final.size}")
 
 
