@@ -1,3 +1,8 @@
-email: 'russ@danceontime.com'
-phone: '770-401-9039'
+phone: '(706) 431-8290'
+phone_link: '+17064318290'
+# The contact form posts to Web3Forms, which emails submissions to the inbox
+# tied to this access key. Create the key at https://web3forms.com (it's
+# safe to publish — it can only send to the address it was created for).
+form_action: 'https://api.web3forms.com/submit'
+web3forms_access_key: 'YOUR_WEB3FORMS_ACCESS_KEY'
 contact_button_link: 'contact'

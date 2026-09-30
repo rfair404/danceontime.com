@@ -182,4 +182,4 @@ I am the parent or legal guardian of the above-named minor and hereby consent to
 ---
 
 **Dance On Time, LLC - Dance Instruction Services**
-Madison, Georgia | russ@danceontime.com | 770-401-9039
+Madison, Georgia | russ@danceontime.com | (706) 431-8290
