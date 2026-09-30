@@ -297,7 +297,7 @@ The website may contain links to third-party websites. Dance On Time is not resp
 **Dance On Time**
 Madison, Georgia
 Email: russ@danceontime.com
-Phone: 770-401-9039
+Phone: (706) 431-8290
 
 For questions about these Terms of Service, please contact us.
 

@@ -1,0 +1,42 @@
+<form class="contact-form" action="{{ site.data.contact.form_action }}" method="POST">
+  <input type="hidden" name="access_key" value="{{ site.data.contact.web3forms_access_key }}">
+  <input type="hidden" name="subject" value="New message from danceontime.com">
+  <input type="hidden" name="from_name" value="Dance On Time website">
+  <input type="hidden" name="redirect" value="https://www.danceontime.com/contact/?sent=1">
+  <input type="checkbox" name="botcheck" class="contact-form-honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+  <div class="contact-form-sent" hidden>Thanks! Your message is on its way &mdash; we'll get back to you within 24 hours.</div>
+
+  <div class="form-group">
+    <label for="cf-name">Name</label>
+    <input id="cf-name" class="form-control" type="text" name="name" autocomplete="name" required>
+  </div>
+  <div class="form-group">
+    <label for="cf-email">Email</label>
+    <input id="cf-email" class="form-control" type="email" name="email" autocomplete="email" required>
+  </div>
+  <div class="form-group">
+    <label for="cf-phone">Phone <span class="contact-form-optional">(optional)</span></label>
+    <input id="cf-phone" class="form-control" type="tel" name="phone" autocomplete="tel">
+  </div>
+  <div class="form-group">
+    <label for="cf-interest">I'm interested in</label>
+    <select id="cf-interest" class="form-control" name="interest">
+      <option>Dance lessons</option>
+      <option>Wedding first dance</option>
+      <option>DJ services</option>
+      <option>Dance floor rental</option>
+      <option>Something else</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="cf-message">Message</label>
+    <textarea id="cf-message" class="form-control" name="message" rows="5" required></textarea>
+  </div>
+  <button type="submit" class="button">Send Message</button>
+</form>
+<script>
+  if (/[?&]sent=1/.test(location.search)) {
+    document.querySelector('.contact-form-sent').hidden = false;
+  }
+</script>

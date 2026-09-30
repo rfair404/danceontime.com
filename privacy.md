@@ -278,7 +278,7 @@ For questions about this Privacy Policy or your personal information:
 **Dance On Time**
 Madison, Georgia
 Email: info@danceontime.com
-Phone: (555) 123-4567
+Phone: (706) 431-8290
 
 **Response Time:** We will respond to privacy requests within 30 days.
 
@@ -297,7 +297,7 @@ Under the California Consumer Privacy Act (CCPA), you have the right to:
 
 **Submission Process**
 - Email: info@danceontime.com
-- Phone: (555) 123-4567
+- Phone: (706) 431-8290
 - Response time: 30 days
 
 **Authorized Agent**
